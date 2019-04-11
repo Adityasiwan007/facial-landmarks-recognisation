@@ -57,5 +57,3 @@ if (results.size() != 0) {
 ```
 <br />
 
-## License
-[License](LICENSE.md)
