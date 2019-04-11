@@ -15,7 +15,7 @@ So, if you guys already improved or want to improve this code, feel free to cont
 <br />
 
 ## Environments
-* DEVICE : SAMSUNG-A8 2015(@cortex-a53 core)
+* DEVICE : SAMSUNG Edge 6
 * API    : 23 (Android 6.0.1)
 * TIME   : 50ms ~ 70ms
 <br />
